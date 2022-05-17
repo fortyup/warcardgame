@@ -1,4 +1,8 @@
-package warcardgame;
+package warcardgame.application;
+
+import warcardgame.model.material.Card;
+import warcardgame.model.material.Rank;
+import warcardgame.model.material.Suit;
 
 public class CardMain {
 
